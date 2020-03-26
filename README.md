@@ -36,7 +36,7 @@
 
 ![image](https://github.com/yuanhang110/Space-version-of-plant-vs.-zombie-and-its-introduction-page/blob/master/ImagesForReadme/6.png)
 
-敌人的图片界面
+游戏内道具和怪兽的图片界面
 
 ![image](https://github.com/yuanhang110/Space-version-of-plant-vs.-zombie-and-its-introduction-page/blob/master/ImagesForReadme/7.png)
 
