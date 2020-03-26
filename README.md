@@ -16,7 +16,7 @@
 
 游戏内的记分板功能。
 
-我们使用了jsp、tomcat、servlet、html、css、java来编写这个程序。
+我们使用了jsp、tomcat、servlet、html、css、java、JavaScript来编写这个程序。
 
 # 介绍页面界面
 
